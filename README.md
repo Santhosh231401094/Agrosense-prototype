@@ -28,19 +28,19 @@ This project was developed as a prototype for the Hack4Change hackathon, organiz
 
 ➤Frontend: Figma for design and prototyping.                                                                                                                                                   
 ➤Backend: Node.js for server-side logic.                                                                                                                                                          
-➤Database: MySQL for data storage.                                                                                                                                                                             
+➤Database: MySQL for data storage.                                                                                                                                                                                                                
 
-##Usage
-To view the prototype, please visit the Figma Project Link.https://www.figma.com/proto/lo0WIEu0EoWp6G751JPhdT/Untitled?node-id=0-1&t=uM2xuW1qlv6NN3zG-1
+##Usage                                                                                                                                                                                                              
+To view the prototype, please visit the Figma Project Link.https://www.figma.com/proto/lo0WIEu0EoWp6G751JPhdT/Untitled?node-id=0-1&t=uM2xuW1qlv6NN3zG-1                                                  
 
-##Future Developments
-Future enhancements for AgroSense may include:
+##Future Developments                                                                                                                                                                             
+Future enhancements for AgroSense may include:                                                                                                                                            
 
-➤Integration with more advanced IoT devices.
-➤Machine learning algorithms for predictive analytics.
-➤Expanded community features for better knowledge sharing.
-➤Mobile application for on-the-go access.
+➤Integration with more advanced IoT devices.                                                                                                                                                         
+➤Machine learning algorithms for predictive analytics.                                                                                                                                               
+➤Expanded community features for better knowledge sharing.                                                                                                                                              
+➤Mobile application for on-the-go access.                                                                                                                                                                                                                                                                                                                                  
 
-##Acknowledgments
+##Acknowledgments 
 
 We would like to thank The/Nudge and Google for organizing the Hack4Change hackathon, providing us with the opportunity to develop this prototype and contribute to the agricultural sector.

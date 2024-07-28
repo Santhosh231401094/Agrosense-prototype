@@ -9,8 +9,7 @@ Yaminisri B
 ##Project Overview
 This project was developed as a prototype for the Hack4Change hackathon, organized by The/Nudge and Google. AgroSense aims to solve key challenges faced by smallholder farmers by providing a user-friendly platform with the following features:
 
-➤Real-time sensor data for soil moisture, nutrients, and pH levels.                                                        
-➤Historical data visualizations and graphs for informed decision-making.                                
+➤Real-time sensor data for soil moisture, nutrients, and pH levels.                                                                                       
 ➤Weather forecasting to plan agricultural activities effectively.                                                   
 ➤Market analytics to monitor price trends and make informed sales decisions.                
 ➤Training modules for sustainable agricultural practices.                                            

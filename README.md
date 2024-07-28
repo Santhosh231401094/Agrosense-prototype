@@ -31,7 +31,7 @@ This project was developed as a prototype for the Hack4Change hackathon, organiz
 ➤Database: MySQL for data storage.                                                                                                                                                                                                                
 
 ##Usage                                                                                                                                                                                                              
-To view the prototype, please visit the Figma Project Link.https://www.figma.com/proto/lo0WIEu0EoWp6G751JPhdT/Untitled?node-id=0-1&t=uM2xuW1qlv6NN3zG-1                                                  
+To view the prototype, please visit the Figma Project Link:https://www.figma.com/proto/lo0WIEu0EoWp6G751JPhdT/Untitled?node-id=14-288&t=uM2xuW1qlv6NN3zG-1                                                  
 
 ##Future Developments                                                                                                                                                                             
 Future enhancements for AgroSense may include:                                                                                                                                            

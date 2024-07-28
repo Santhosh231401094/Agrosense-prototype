@@ -18,17 +18,17 @@ This project was developed as a prototype for the Hack4Change hackathon, organiz
 
 ##Prototype Features
 
-➤Soil Health Monitoring: Displays real-time data and historical trends for soil moisture, nutrients, and pH levels.
-➤Weather Forecasting: Provides up-to-date weather forecasts to help farmers plan their activities.
-➤Market Analytics: Monitors and displays market prices and trends for various crops.
-➤Training Modules: Offers educational content to help farmers adopt sustainable practices.
-➤Community Support: Provides a platform for farmers to connect and share knowledge.
+➤Soil Health Monitoring: Displays real-time data and historical trends for soil moisture, nutrients, and pH levels.                                                            
+➤Weather Forecasting: Provides up-to-date weather forecasts to help farmers plan their activities.                                                                        
+➤Market Analytics: Monitors and displays market prices and trends for various crops.                                                                             
+➤Training Modules: Offers educational content to help farmers adopt sustainable practices.                                                                   
+➤Community Support: Provides a platform for farmers to connect and share knowledge.                                                                     
 
 ##Technology Stack
 
-➤Frontend: Figma for design and prototyping.
-➤Backend: Node.js for server-side logic.
-➤Database: MySQL for data storage.
+➤Frontend: Figma for design and prototyping.                                                                                                                                                   
+➤Backend: Node.js for server-side logic.                                                                                                                                                          
+➤Database: MySQL for data storage.                                                                                                                                                                             
 
 ##Usage
 To view the prototype, please visit the Figma Project Link.https://www.figma.com/proto/lo0WIEu0EoWp6G751JPhdT/Untitled?node-id=0-1&t=uM2xuW1qlv6NN3zG-1
